@@ -9,6 +9,8 @@ public class BullShittProgram {
 		System.out.println("This is my changes in code ");
 		
 		System.out.println("This is my third change ");
+		
+		System.out.println("Second commit check ");
 
 	}
 
