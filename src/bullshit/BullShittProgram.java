@@ -4,7 +4,7 @@ public class BullShittProgram {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-<<<<<< c11
+
 		System.out.println("This is bull shit program..!   ");// Changed heree
 		
 		System.out.println("This is my changes in code ");
@@ -27,6 +27,8 @@ public class BullShittProgram {
 		// Updated in main 
 
 		//from y1 brnch code changed 
+		
+		// code has been modified here 
 		
 
 	}
