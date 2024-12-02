@@ -1,4 +1,7 @@
 #!/bin/bash
 
 #Addition
-Add= 1 +2 
+Add= 1 +2
+# Subtraction
+Sub = 3-1
+
